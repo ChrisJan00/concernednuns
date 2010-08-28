@@ -1,0 +1,1996 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="480"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="gfx.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-47.586981"
+     inkscape:cy="-215.27296"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     gridtolerance="20"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="45">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2383"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-252.36218)">
+    <rect
+       style="opacity:1;fill:#6d8296;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2385"
+       width="640"
+       height="480"
+       x="0"
+       y="252.36218"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#c3a59c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="path3157"
+       sodipodi:cx="-20"
+       sodipodi:cy="122.36218"
+       sodipodi:rx="170"
+       sodipodi:ry="170"
+       d="M 150,122.36218 A 170,170 0 1 1 -190,122.36218 A 170,170 0 1 1 150,122.36218 z"
+       transform="translate(0,40)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#c3a59c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="path3159"
+       sodipodi:cx="160"
+       sodipodi:cy="192.36218"
+       sodipodi:rx="100"
+       sodipodi:ry="100"
+       d="M 260,192.36218 A 100,100 0 1 1 60,192.36218 A 100,100 0 1 1 260,192.36218 z"
+       transform="translate(0,40)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#c3a59c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="path3161"
+       sodipodi:cx="300"
+       sodipodi:cy="172.36218"
+       sodipodi:rx="70"
+       sodipodi:ry="70"
+       d="M 370,172.36218 A 70,70 0 1 1 230,172.36218 A 70,70 0 1 1 370,172.36218 z"
+       transform="translate(0,40)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#c3a59c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="path3163"
+       sodipodi:cx="740"
+       sodipodi:cy="192.36218"
+       sodipodi:rx="90"
+       sodipodi:ry="90"
+       d="M 830,192.36218 A 90,90 0 1 1 650,192.36218 A 90,90 0 1 1 830,192.36218 z"
+       transform="translate(0,40)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#c3a59c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="path3165"
+       sodipodi:cx="590"
+       sodipodi:cy="172.36218"
+       sodipodi:rx="110"
+       sodipodi:ry="110"
+       d="M 700,172.36218 A 110,110 0 1 1 480,172.36218 A 110,110 0 1 1 700,172.36218 z"
+       transform="translate(0,40)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#c3a59c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="path3167"
+       sodipodi:cx="450"
+       sodipodi:cy="182.36218"
+       sodipodi:rx="80"
+       sodipodi:ry="80"
+       d="M 530,182.36218 A 80,80 0 1 1 370,182.36218 A 80,80 0 1 1 530,182.36218 z"
+       transform="translate(0,40)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#c3a59c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="path3169"
+       sodipodi:cx="370"
+       sodipodi:cy="212.36218"
+       sodipodi:rx="90"
+       sodipodi:ry="90"
+       d="M 460,212.36218 A 90,90 0 1 1 280,212.36218 A 90,90 0 1 1 460,212.36218 z"
+       transform="translate(0,40)" />
+    <rect
+       style="opacity:1;fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3171"
+       width="640"
+       height="70"
+       x="0"
+       y="652.36218" />
+    <rect
+       y="582.36218"
+       x="0"
+       height="60"
+       width="640"
+       id="rect3175"
+       style="opacity:1;fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       style="opacity:1;fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3177"
+       width="640"
+       height="50"
+       x="0"
+       y="522.36218" />
+    <rect
+       y="472.36218"
+       x="0"
+       height="40"
+       width="640"
+       id="rect3179"
+       style="opacity:1;fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       style="opacity:1;fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3181"
+       width="640"
+       height="30"
+       x="0"
+       y="432.36218" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3185"
+       width="40"
+       height="80"
+       x="-240"
+       y="532.36218"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3187"
+       width="30"
+       height="20"
+       x="-240"
+       y="542.36218"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="612.36218"
+       x="-210"
+       height="20"
+       width="10"
+       id="rect3189"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3191"
+       width="10"
+       height="20"
+       x="-230"
+       y="612.36218"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="542.36218"
+       x="-240"
+       height="10"
+       width="10"
+       id="rect3197"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3199"
+       width="10"
+       height="10"
+       x="-220"
+       y="542.36218"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="532.36218"
+       x="-200"
+       height="80"
+       width="40"
+       id="rect3201"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="542.36218"
+       x="-200"
+       height="20"
+       width="30"
+       id="rect3203"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3205"
+       width="10"
+       height="20"
+       x="-170"
+       y="612.36218"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="612.36218"
+       x="-200"
+       height="20"
+       width="10"
+       id="rect3207"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3209"
+       width="10"
+       height="10"
+       x="-200"
+       y="542.36218"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="542.36218"
+       x="-180"
+       height="10"
+       width="10"
+       id="rect3211"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3213"
+       width="40"
+       height="80"
+       x="-160"
+       y="532.36218"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3215"
+       width="30"
+       height="20"
+       x="-160"
+       y="542.36218"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="612.36218"
+       x="-140"
+       height="20"
+       width="10"
+       id="rect3217"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3219"
+       width="10"
+       height="20"
+       x="-160"
+       y="612.36218"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="542.36218"
+       x="-160"
+       height="10"
+       width="10"
+       id="rect3221"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3223"
+       width="10"
+       height="10"
+       x="-140"
+       y="542.36218"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="532.36218"
+       x="-120"
+       height="80"
+       width="40"
+       id="rect3225"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="542.36218"
+       x="-120"
+       height="20"
+       width="30"
+       id="rect3227"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3229"
+       width="10"
+       height="20"
+       x="100"
+       y="612.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="612.36218"
+       x="90"
+       height="20"
+       width="10"
+       id="rect3231"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3233"
+       width="10"
+       height="10"
+       x="-120"
+       y="542.36218"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="542.36218"
+       x="-100"
+       height="10"
+       width="10"
+       id="rect3235"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="632.36218"
+       x="200"
+       height="80"
+       width="40"
+       id="rect3249"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="642.36218"
+       x="200"
+       height="20"
+       width="30"
+       id="rect3251"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3253"
+       width="10"
+       height="20"
+       x="230"
+       y="712.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="712.36218"
+       x="210"
+       height="20"
+       width="10"
+       id="rect3255"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3257"
+       width="10"
+       height="10"
+       x="200"
+       y="642.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="642.36218"
+       x="220"
+       height="10"
+       width="10"
+       id="rect3259"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3261"
+       width="40"
+       height="80"
+       x="160"
+       y="632.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3263"
+       width="30"
+       height="20"
+       x="160"
+       y="642.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="712.36218"
+       x="190"
+       height="20"
+       width="10"
+       id="rect3265"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3267"
+       width="10"
+       height="20"
+       x="160"
+       y="712.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="642.36218"
+       x="160"
+       height="10"
+       width="10"
+       id="rect3269"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3271"
+       width="10"
+       height="10"
+       x="180"
+       y="642.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="632.36218"
+       x="120"
+       height="80"
+       width="40"
+       id="rect3273"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="642.36218"
+       x="120"
+       height="20"
+       width="30"
+       id="rect3275"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3277"
+       width="10"
+       height="20"
+       x="140"
+       y="712.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="712.36218"
+       x="120"
+       height="20"
+       width="10"
+       id="rect3279"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3281"
+       width="10"
+       height="10"
+       x="120"
+       y="642.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="642.36218"
+       x="140"
+       height="10"
+       width="10"
+       id="rect3283"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3285"
+       width="40"
+       height="80"
+       x="80"
+       y="632.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3287"
+       width="30"
+       height="20"
+       x="80"
+       y="642.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="712.36218"
+       x="100"
+       height="20"
+       width="10"
+       id="rect3289"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3291"
+       width="10"
+       height="20"
+       x="90"
+       y="712.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="642.36218"
+       x="80"
+       height="10"
+       width="10"
+       id="rect3293"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3295"
+       width="10"
+       height="10"
+       x="100"
+       y="642.36218"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_calm_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       y="812.36218"
+       x="-240"
+       height="80"
+       width="40"
+       id="rect2441"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       y="822.36218"
+       x="-240"
+       height="20"
+       width="30"
+       id="rect2443"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2445"
+       width="10"
+       height="20"
+       x="-210"
+       y="892.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       y="892.36218"
+       x="-230"
+       height="20"
+       width="10"
+       id="rect2447"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2449"
+       width="10"
+       height="10"
+       x="-240"
+       y="822.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       y="822.36218"
+       x="-220"
+       height="10"
+       width="10"
+       id="rect2451"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2453"
+       width="40"
+       height="80"
+       x="-200"
+       y="812.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2455"
+       width="30"
+       height="20"
+       x="-200"
+       y="822.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       y="892.36218"
+       x="-170"
+       height="20"
+       width="10"
+       id="rect2457"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2459"
+       width="10"
+       height="20"
+       x="-200"
+       y="892.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       y="822.36218"
+       x="-200"
+       height="10"
+       width="10"
+       id="rect2461"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2463"
+       width="10"
+       height="10"
+       x="-180"
+       y="822.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       y="812.36218"
+       x="-160"
+       height="80"
+       width="40"
+       id="rect2465"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       y="822.36218"
+       x="-160"
+       height="20"
+       width="30"
+       id="rect2467"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2469"
+       width="10"
+       height="20"
+       x="-140"
+       y="892.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       y="892.36218"
+       x="-160"
+       height="20"
+       width="10"
+       id="rect2471"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2473"
+       width="10"
+       height="10"
+       x="-160"
+       y="822.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       y="822.36218"
+       x="-140"
+       height="10"
+       width="10"
+       id="rect2475"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2477"
+       width="40"
+       height="80"
+       x="-120"
+       y="812.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2479"
+       width="30"
+       height="20"
+       x="-120"
+       y="822.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       transform="scale(-1,1)"
+       y="892.36218"
+       x="100"
+       height="20"
+       width="10"
+       id="rect2481"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2483"
+       width="10"
+       height="20"
+       x="90"
+       y="892.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       y="822.36218"
+       x="-120"
+       height="10"
+       width="10"
+       id="rect2485"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_left.png"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2487"
+       width="10"
+       height="10"
+       x="-100"
+       y="822.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2489"
+       width="40"
+       height="80"
+       x="200"
+       y="912.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2491"
+       width="30"
+       height="20"
+       x="200"
+       y="922.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       y="992.36218"
+       x="230"
+       height="20"
+       width="10"
+       id="rect2493"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2495"
+       width="10"
+       height="20"
+       x="210"
+       y="992.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       y="922.36218"
+       x="200"
+       height="10"
+       width="10"
+       id="rect2497"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2499"
+       width="10"
+       height="10"
+       x="220"
+       y="922.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       y="912.36218"
+       x="160"
+       height="80"
+       width="40"
+       id="rect2501"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       y="922.36218"
+       x="160"
+       height="20"
+       width="30"
+       id="rect2503"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2505"
+       width="10"
+       height="20"
+       x="190"
+       y="992.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       y="992.36218"
+       x="160"
+       height="20"
+       width="10"
+       id="rect2507"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2509"
+       width="10"
+       height="10"
+       x="160"
+       y="922.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       y="922.36218"
+       x="180"
+       height="10"
+       width="10"
+       id="rect2511"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2513"
+       width="40"
+       height="80"
+       x="120"
+       y="912.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2515"
+       width="30"
+       height="20"
+       x="120"
+       y="922.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       y="992.36218"
+       x="140"
+       height="20"
+       width="10"
+       id="rect2517"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2519"
+       width="10"
+       height="20"
+       x="120"
+       y="992.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       y="922.36218"
+       x="120"
+       height="10"
+       width="10"
+       id="rect2521"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2523"
+       width="10"
+       height="10"
+       x="140"
+       y="922.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       y="912.36218"
+       x="80"
+       height="80"
+       width="40"
+       id="rect2525"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       y="922.36218"
+       x="80"
+       height="20"
+       width="30"
+       id="rect2527"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2529"
+       width="10"
+       height="20"
+       x="100"
+       y="992.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       y="992.36218"
+       x="90"
+       height="20"
+       width="10"
+       id="rect2531"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2533"
+       width="10"
+       height="10"
+       x="80"
+       y="922.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_right.png"
+       transform="scale(-1,1)"
+       y="922.36218"
+       x="100"
+       height="10"
+       width="10"
+       id="rect2535"
+       style="opacity:1;fill:#0c8a9d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2490"
+       width="40"
+       height="80"
+       x="-240"
+       y="1012.3622"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2492"
+       width="30"
+       height="20"
+       x="-240"
+       y="1022.3622"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1092.3622"
+       x="-210"
+       height="20"
+       width="10"
+       id="rect2494"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2496"
+       width="10"
+       height="20"
+       x="-230"
+       y="1092.3622"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1022.3622"
+       x="-240"
+       height="10"
+       width="10"
+       id="rect2498"
+       style="opacity:1;fill:#9d0c22;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#9d0c22;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2500"
+       width="10"
+       height="10"
+       x="-220"
+       y="1022.3622"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1012.3622"
+       x="-200"
+       height="80"
+       width="40"
+       id="rect2502"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1022.3622"
+       x="-200"
+       height="20"
+       width="30"
+       id="rect2504"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2506"
+       width="10"
+       height="20"
+       x="-170"
+       y="1092.3622"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1092.3622"
+       x="-190"
+       height="20"
+       width="10"
+       id="rect2508"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#f6002a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2510"
+       width="10"
+       height="10"
+       x="-200"
+       y="1022.3622"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1022.3622"
+       x="-180"
+       height="10"
+       width="10"
+       id="rect2512"
+       style="opacity:1;fill:#f6002a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1012.3622"
+       x="120"
+       height="80"
+       width="40"
+       id="rect2538"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1022.3622"
+       x="120"
+       height="20"
+       width="30"
+       id="rect2540"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2542"
+       width="10"
+       height="20"
+       x="150"
+       y="1092.3622"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1092.3622"
+       x="130"
+       height="20"
+       width="10"
+       id="rect2544"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#9d0c22;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2546"
+       width="10"
+       height="10"
+       x="120"
+       y="1022.3622"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1022.3622"
+       x="140"
+       height="10"
+       width="10"
+       id="rect2548"
+       style="opacity:1;fill:#9d0c22;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2550"
+       width="40"
+       height="80"
+       x="80"
+       y="1012.3622"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2552"
+       width="30"
+       height="20"
+       x="80"
+       y="1022.3622"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1092.3622"
+       x="110"
+       height="20"
+       width="10"
+       id="rect2554"
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#f84bc3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2556"
+       width="10"
+       height="20"
+       x="90"
+       y="1092.3622"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1022.3622"
+       x="80"
+       height="10"
+       width="10"
+       id="rect2558"
+       style="opacity:1;fill:#f6002a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#f6002a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2560"
+       width="10"
+       height="10"
+       x="100"
+       y="1022.3622"
+       transform="scale(-1,1)"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#f499d9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2586"
+       width="20"
+       height="20"
+       x="-230"
+       y="1072.3622"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1062.3622"
+       x="-200"
+       height="30.000006"
+       width="40"
+       id="rect3358"
+       style="opacity:1;fill:#f499d9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1072.3622"
+       x="-150"
+       height="20"
+       width="20"
+       id="rect3360"
+       style="opacity:1;fill:#f499d9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#f499d9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect3362"
+       width="40"
+       height="30.000006"
+       x="-120"
+       y="1062.3622"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\Desktop\svn\concernednuns\guy_strip_right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       y="332.36218"
+       x="-240"
+       height="80"
+       width="40"
+       id="rect2518"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       y="342.36218"
+       x="-240"
+       height="20"
+       width="30"
+       id="rect2520"
+       style="opacity:1;fill:#e1a5da;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2522"
+       width="10"
+       height="20"
+       x="-210"
+       y="412.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       y="412.36218"
+       x="-230"
+       height="20"
+       width="10"
+       id="rect2524"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2526"
+       width="10"
+       height="10"
+       x="-240"
+       y="342.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       y="342.36218"
+       x="-220"
+       height="10"
+       width="10"
+       id="rect2528"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2530"
+       width="40"
+       height="80"
+       x="-200"
+       y="332.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       style="opacity:1;fill:#e1a5da;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2532"
+       width="30"
+       height="20"
+       x="-200"
+       y="342.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       y="412.36218"
+       x="-170"
+       height="20"
+       width="10"
+       id="rect2534"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2536"
+       width="10"
+       height="20"
+       x="-200"
+       y="412.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       y="342.36218"
+       x="-200"
+       height="10"
+       width="10"
+       id="rect2539"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2541"
+       width="10"
+       height="10"
+       x="-180"
+       y="342.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       y="332.36218"
+       x="-160"
+       height="80"
+       width="40"
+       id="rect2543"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       y="342.36218"
+       x="-160"
+       height="20"
+       width="30"
+       id="rect2545"
+       style="opacity:1;fill:#e1a5da;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2547"
+       width="10"
+       height="20"
+       x="-140"
+       y="412.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       y="412.36218"
+       x="-160"
+       height="20"
+       width="10"
+       id="rect2549"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2551"
+       width="10"
+       height="10"
+       x="-160"
+       y="342.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       y="342.36218"
+       x="-140"
+       height="10"
+       width="10"
+       id="rect2553"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2555"
+       width="40"
+       height="80"
+       x="-120"
+       y="332.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       style="opacity:1;fill:#e1a5da;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2557"
+       width="30"
+       height="20"
+       x="-120"
+       y="342.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       transform="scale(-1,1)"
+       y="412.36218"
+       x="100"
+       height="20"
+       width="10"
+       id="rect2559"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2561"
+       width="10"
+       height="20"
+       x="90"
+       y="412.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       y="342.36218"
+       x="-120"
+       height="10"
+       width="10"
+       id="rect2563"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_left.png"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2565"
+       width="10"
+       height="10"
+       x="-100"
+       y="342.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2567"
+       width="40"
+       height="80"
+       x="200"
+       y="432.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#e1a5da;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2569"
+       width="30"
+       height="20"
+       x="200"
+       y="442.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       y="512.36218"
+       x="230"
+       height="20"
+       width="10"
+       id="rect2571"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2573"
+       width="10"
+       height="20"
+       x="210"
+       y="512.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       y="442.36218"
+       x="200"
+       height="10"
+       width="10"
+       id="rect2575"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2577"
+       width="10"
+       height="10"
+       x="220"
+       y="442.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       y="432.36218"
+       x="160"
+       height="80"
+       width="40"
+       id="rect2579"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       y="442.36218"
+       x="160"
+       height="20"
+       width="30"
+       id="rect2581"
+       style="opacity:1;fill:#e1a5da;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2583"
+       width="10"
+       height="20"
+       x="190"
+       y="512.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       y="512.36218"
+       x="160"
+       height="20"
+       width="10"
+       id="rect2585"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2587"
+       width="10"
+       height="10"
+       x="160"
+       y="442.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       y="442.36218"
+       x="180"
+       height="10"
+       width="10"
+       id="rect2589"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2591"
+       width="40"
+       height="80"
+       x="120"
+       y="432.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#e1a5da;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2593"
+       width="30"
+       height="20"
+       x="120"
+       y="442.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       y="512.36218"
+       x="140"
+       height="20"
+       width="10"
+       id="rect2595"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2597"
+       width="10"
+       height="20"
+       x="120"
+       y="512.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       y="442.36218"
+       x="120"
+       height="10"
+       width="10"
+       id="rect2599"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2601"
+       width="10"
+       height="10"
+       x="140"
+       y="442.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       y="432.36218"
+       x="80"
+       height="80"
+       width="40"
+       id="rect2603"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       y="442.36218"
+       x="80"
+       height="20"
+       width="30"
+       id="rect2605"
+       style="opacity:1;fill:#e1a5da;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451"
+       id="rect2607"
+       width="10"
+       height="20"
+       x="100"
+       y="512.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       y="512.36218"
+       x="90"
+       height="20"
+       width="10"
+       id="rect2609"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4627451" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002"
+       id="rect2611"
+       width="10"
+       height="10"
+       x="80"
+       y="442.36218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Documents and Settings\igabovitch\nun_concerned_right.png"
+       transform="scale(-1,1)"
+       y="442.36218"
+       x="100"
+       height="10"
+       width="10"
+       id="rect2613"
+       style="opacity:1;fill:#076eb9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46274510000000002" />
+  </g>
+</svg>
